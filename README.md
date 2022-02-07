@@ -25,6 +25,10 @@ Idek CTF 2021
 
 X-MAS CTF 2021
 
+DiceCTF 2022
+
+Cybergrabs CTF 2022
+
 Home Team Investigator's Challenge HTXIC 2021
 
 Meta CTF 2021
