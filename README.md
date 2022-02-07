@@ -25,14 +25,14 @@ Idek CTF 2021
 
 X-MAS CTF 2021
 
-DiceCTF 2022
-
-Cybergrabs CTF 2022
+Sieberrsec CTF 2021
 
 Home Team Investigator's Challenge HTXIC 2021
 
 Meta CTF 2021
 
-Unfortunately couldn't put Sieberrsec CTF 2021 because this idiot didn't even attend :(
+DiceCTF 2022
+
+Cybergrabs CTF 2022
 
 Do not be fooled by my catfishy profile picture, I'm far more menacing than that😶
